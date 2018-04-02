@@ -1,1 +1,1 @@
-worker: node <The Bot>
+worker: python <The Bot>
