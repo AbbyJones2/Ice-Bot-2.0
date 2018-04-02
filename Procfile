@@ -1,1 +1,1 @@
-worker: node <The Bot.js>
+worker: node <The Bo>
